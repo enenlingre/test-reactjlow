@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-reactjlow/static/css/main.373bc584.css",
-    "main.js": "/test-reactjlow/static/js/main.ea8cee17.js",
+    "main.js": "/test-reactjlow/static/js/main.829b8fc6.js",
     "index.html": "/test-reactjlow/index.html",
     "main.373bc584.css.map": "/test-reactjlow/static/css/main.373bc584.css.map",
-    "main.ea8cee17.js.map": "/test-reactjlow/static/js/main.ea8cee17.js.map"
+    "main.829b8fc6.js.map": "/test-reactjlow/static/js/main.829b8fc6.js.map"
   },
   "entrypoints": [
     "static/css/main.373bc584.css",
-    "static/js/main.ea8cee17.js"
+    "static/js/main.829b8fc6.js"
   ]
 }
