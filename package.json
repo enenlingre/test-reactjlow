@@ -2,7 +2,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.0.0",
